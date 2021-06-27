@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730063939021",
+    "project_id": "fotomag-adm",
+    "storage_bucket": "fotomag-adm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730063939021:android:9fdad04cc478f2f2ea9084",
+        "android_client_info": {
+          "package_name": "com.example.fotomag3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730063939021-3ig5mms6cbnjj38t941u1b16tals3hks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IR7rZNPLkIHXx8Fh2dqrFjtNeW8LBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730063939021-3ig5mms6cbnjj38t941u1b16tals3hks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
